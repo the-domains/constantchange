@@ -1,0 +1,28 @@
+name: constantchange
+favicon: null
+layout_spectrum: 0.35309671028517187
+typography_spectrum: 0.3708751320373267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7907199719920754
+  lightness: 0.6114220933523029
+  saturation: 0.11433276510797441
+  rhythmicContrast: 0.33704065973870456
+purpose: []
